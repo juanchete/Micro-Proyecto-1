@@ -90,10 +90,14 @@ nav {
 #portafolio{
     height: 475px;
     width: 100%;
-    background-color: aquamarine;
+    
 }
 
-
+#acerca{
+    background-color: #333;
+    height: 525px;
+    width: 100%;
+}
 
 .square{
 height: 100%;
@@ -101,9 +105,18 @@ width: 33%;
 
 }
 
-#apple{
+#empresa{
     width: 50px;
     height: 50px;
     margin: 5px;
     padding: 5px;
+}
+
+#imagenPersonal{
+    width: 450px;
+    height: 400px;
+}
+
+#acerca h1{
+    color: yellow;
 }
