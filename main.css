@@ -95,7 +95,7 @@ nav {
 
 #acerca{
     background-color: #333;
-    height: 525px;
+    height: 500px;
     width: 100%;
 }
 
@@ -113,10 +113,19 @@ width: 33%;
 }
 
 #imagenPersonal{
-    width: 450px;
+    width: 400px;
     height: 400px;
 }
 
-#acerca h1{
-    color: yellow;
+
+
+#habilidades{
+    background-color: aquamarine;
+    width: 100%;
+    height: 450px;
+}
+
+#adorno{
+    height: 200px;
+    width: 250px;
 }
